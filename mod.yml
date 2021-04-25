@@ -695,3 +695,63 @@ assets:
   method: copy
   source:
   - name: voice\us\battle\wi0_sora.vsb
+- name: msg/jp/bb.bar
+  multi:
+  - name: msg/us/bb.bar
+  - name: msg/uk/bb.bar
+  method: binarc
+  source:
+  - name: bb
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/jp/bb.yml
+      language: en
+- name: msg/jp/dc.bar
+  multi:
+  - name: msg/us/dc.bar
+  - name: msg/uk/dc.bar
+  method: binarc
+  source:
+  - name: dc
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/jp/dc.yml
+      language: en
+- name: msg/jp/eh.bar
+  multi:
+  - name: msg/us/eh.bar
+  - name: msg/uk/eh.bar
+  method: binarc
+  source:
+  - name: eh
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/jp/eh.yml
+      language: en
+- name: msg/jp/sys.bar
+  multi:
+  - name: msg/us/sys.bar
+  - name: msg/uk/sys.bar
+  method: binarc
+  source:
+  - name: sys
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/jp/sys.yml
+      language: en
+- name: msg/jp/tt.bar
+  multi:
+  - name: msg/us/tt.bar
+  - name: msg/uk/tt.bar
+  method: binarc
+  source:
+  - name: tt
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/jp/tt.yml
+      language: en

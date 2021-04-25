@@ -46,21 +46,31 @@
 
     Hercules is in a match right now!
 - id: 740
-  en: Sora´s Room
+  en: Roxas´s Room
 - id: 1162
-  en: '{:icon ai-settings}Sora Attack'
+  en: '{:icon ai-settings}Roxas Attack'
+- id: 1311
+  en: Roxas
 - id: 1331
   en: >-
     Roxas:
+
+    I don´t think Aladdin´s this way.
 - id: 1333
   en: >-
     Roxas:
+
+    The peddler´s shop isn´t that way...
 - id: 1335
   en: >-
     Roxas:
+
+    The peddler´s shop isn´t this way...
 - id: 1339
   en: >-
     Roxas:
+
+    We should talk to the Beast first.
 - id: 1341
   en: >-
     Roxas:
@@ -69,6 +79,8 @@
 - id: 1343
   en: >-
     Roxas:
+
+    We should talk to the Beast first.
 - id: 1345
   en: >-
     Roxas:
@@ -79,7 +91,7 @@
     Roxas:
 
     I don´t think it´s going to open.
- - id: 1349
+- id: 1349
   en: >-
     Roxas:
 
@@ -127,7 +139,7 @@
     Let´s go into the book
 
     and see Pooh!
- - id: 1391
+- id: 1391
   en: >-
     Roxas:
 
@@ -253,6 +265,8 @@
 - id: 7490
   en: >-
     Roxas:
+
+    Authorized personnel only, eh?
 - id: 7492
   en: >-
     Roxas:
@@ -370,6 +384,8 @@
 - id: 10444
   en: >-
     Roxas:
+
+    Let´s get to Merlin´s house.
 - id: 12070
   en: >-
     Roxas:
@@ -414,49 +430,49 @@
   en: >-
     A Limit Command that unleashes Goofy
 
-    and Sora´s joint attack, Knocksmash.
+    and Roxas´s joint attack, Knocksmash.
 
     Consumes all of Roxas´s MP.
- - id: 13120
+- id: 13120
   en: >-
     A Limit Command that unleashes Aladdin
 
-    and Sora´s joint attack, Speedster.
+    and Roxas´s joint attack, Speedster.
 
     Consumes all of Roxas´s MP.
 - id: 13122
   en: >-
     A Limit Command that unleashes Auron
 
-    and Sora´s joint attack, Bushido.
+    and Roxas´s joint attack, Bushido.
 
     Consumes all of Roxas´s MP.
 - id: 13124
   en: >-
     A Limit Command that unleashes Beast
 
-    and Sora´s joint attack, Twin Howl.
+    and Roxas´s joint attack, Twin Howl.
 
     Consumes all of Roxas´s MP.
 - id: 13126
   en: >-
     A Limit Command that unleashes Jack
 
-    and Sora´s joint attack, Dance Call.
+    and Roxas´s joint attack, Dance Call.
 
     Consumes all of Roxas´s MP.
 - id: 13128
   en: >-
     A Limit Command that unleashes Mulan
 
-    and Sora´s joint attack, Red Rocket.
+    and Roxas´s joint attack, Red Rocket.
 
     Consumes all of Roxas´s MP.
 - id: 13130
   en: >-
     A Limit Command that unleashes Riku
 
-    and Sora´s joint attack, Session.
+    and Roxas´s joint attack, Session.
 
     Consumes all of Roxas´s MP.
 - id: 13967
@@ -771,7 +787,7 @@
     Pete there.
 - id: 17818
   en: >-
-    {:width 85}Peter Pan will help Sora fight against enemies.
+    {:width 85}Peter Pan will help Roxas fight against enemies.
 
     If Roxas falls during battle, Tinker Bell will be
 
